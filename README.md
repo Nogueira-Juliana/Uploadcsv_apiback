@@ -9,6 +9,7 @@ O Node.js foi escolhido como plataforma de backend por ser uma tecnologia muito 
 Já o PostgreSQL é um banco de dados relacional que oferece alta confiabilidade, escalabilidade e segurança. Ele é amplamente utilizado em aplicações empresariais e é conhecido por sua capacidade de lidar com grandes quantidades de dados.
 
 Para o desenvolvimento da API, foi utilizado o framework Express, que é amplamente utilizado na comunidade Node.js. Ele fornece uma série de recursos para lidar com requisições HTTP e simplifica a implementação de rotas e middlewares.
+Link do repositório da aplicação Front desenvolvida: https://github.com/Nogueira-Juliana/Upload_apifront
 
 
 https://github.com/Nogueira-Juliana/Uploadcsv_apiback/assets/89023943/bca59cc3-af43-4b77-9ca0-922869431090
