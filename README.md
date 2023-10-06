@@ -11,6 +11,10 @@ Já o PostgreSQL é um banco de dados relacional que oferece alta confiabilidade
 Para o desenvolvimento da API, foi utilizado o framework Express, que é amplamente utilizado na comunidade Node.js. Ele fornece uma série de recursos para lidar com requisições HTTP e simplifica a implementação de rotas e middlewares.
 
 
+https://github.com/Nogueira-Juliana/Uploadcsv_apiback/assets/89023943/bca59cc3-af43-4b77-9ca0-922869431090
+
+
+
 
 BIBLIOTECAS USADAS:
     "bcrypt": "^5.1.0",
@@ -22,3 +26,6 @@ BIBLIOTECAS USADAS:
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.9.1",
     "pg": "^8.10.0"
+
+
+
